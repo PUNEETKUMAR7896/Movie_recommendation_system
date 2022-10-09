@@ -4,4 +4,4 @@ This model uses NLP techniques like stemming, bag of words, and cosine similarit
 
 Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-
+Live working link : https://mv-recc.herokuapp.com/
