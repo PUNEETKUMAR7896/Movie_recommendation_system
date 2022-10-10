@@ -7,7 +7,9 @@
 This movie recommender system uses uses NLP techniques like Stemming, Bag of words, and Cosine similarity to calculate the similarity score of movies and recommend top 5 movies.
 
 To make this system efficient i have used a dataset with around 5000 movies.
+
 Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Below is the working link of the model deployed on Heroku
+
 Live working link : https://mv-recc.herokuapp.com/
