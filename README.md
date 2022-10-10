@@ -1,6 +1,7 @@
 # Movie_recommendation_system
 
-•A web application to recommend movies based on the similar content to the users they like.
+• A web application to recommend movies based on the similar content to the users they like.
+
 • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
 
 This movie recommender system uses uses NLP techniques like Stemming, Bag of words, and Cosine similarity to calculate the similarity score of movies and recommend top 5 movies.
